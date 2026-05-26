@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on rekted.lol<br>🤖 Verified discord.js Bot Developer<br>🌐 Building websites in PHP/REACT
+🔭 Currently working on a few projects. :)<br>🤖 Verified discord.js Bot Developer<br>🌐 Building websites in PHP/REACT
 
 
 # 💻 Tech Stack:
